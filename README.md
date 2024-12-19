@@ -1,6 +1,6 @@
 # EX01 Developing a Simple Webserver
 
-# Date:
+# Date:21/09/2024
 # AIM:
 To develop a simple webserver to serve html pages and display the configuration details of laptop.
 
@@ -168,7 +168,7 @@ urlpatterns = [
 ]
 ```
 # OUTPUT
-![image](https://github.com/user-attachments/assets/f6d89814-bb37-464d-b167-97413dcbf494)
+![image](https://github.com/user-attachments/assets/7b2554f3-89d9-4ab4-8891-8595c00e61dd)
 
 # RESULT:
 The program for implementing simple webserver is executed successfully.
